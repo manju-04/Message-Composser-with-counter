@@ -9,15 +9,14 @@ It allows users to type messages with a **200-character limit**, updates the cou
 - ✔ **Real-time Character Count**
 - ✔ **Maximum Character Limit (200)**
 - ✔ **Warning when limit is near**
-- ✔ **Shake animation when limit is reached**
 - ✔ **Success & Error messages**
 - ✔ **Responsive and Modern UI**
-- ✔ **Gradient Background with Card Design**
+- ✔ **Background with Card Design**
 
 ---
 
 ## 🛠 Tech Stack
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
