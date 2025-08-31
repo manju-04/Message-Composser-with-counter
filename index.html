@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Counter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Message Composer</h1>
+        <p class="description">Type your message in the text area below. The character counter will update in real-time.</p>
+        
+        <div class="text-area-container">
+            <textarea id="message" placeholder="Start typing your message here..." maxlength="200"></textarea>
+            <div class="counter" id="counter">0/200 characters</div>
+        </div>
+        
+        <div class="message" id="messageAlert"></div>
+        
+        <div class="button-container">
+            <button id="submitButton">Submit Message</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    
+</body>
+</html>
